@@ -15,7 +15,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoondj98)](https://github.com/yoondj98)
 
 # I am
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/77be4edae5184b78b25c91fac4e77712?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://available-slice-7a0.notion.site/iOS-5b6a638ffd064a5daaf4d4a5af12ce72?pvs=4)
 
 
 # Skill
